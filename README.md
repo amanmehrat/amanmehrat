@@ -5,7 +5,7 @@
 
 Leetcode Profile - https://leetcode.com/amanmehrat956/
 
-Skills 
+Skills \n </br>
 ◦ Structures 
 ◦ Algorithms  
 ◦ NodeJs
