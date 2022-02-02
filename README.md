@@ -5,12 +5,12 @@
 
 Leetcode Profile - https://leetcode.com/amanmehrat956/
 
-Skills \n </br>
-◦ Structures 
-◦ Algorithms  
-◦ NodeJs
-◦ ReactJs
-◦ SQL
+Skills</br>
+◦ Structures</br>
+◦ Algorithms</br>
+◦ NodeJs</br>
+◦ ReactJs</br>
+◦ SQL</br>
 
 <!---
 amanmehrat/amanmehrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
