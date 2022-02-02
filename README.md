@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Aman Mehrat
 - 👀 I’m software developer @Simpplr Inc.
 - 🌱 I’m currently learning microservices architecture.
-- 📫 Reach me @LinkedIn - https://www.linkedin.com/in/aman-mehrat/
+- 📫 Reach me @<a href="https://www.linkedin.com/in/aman-mehrat/" target="_blank">LinkedIn</a> 
 
-Leetcode Profile - https://leetcode.com/amanmehrat956/
+Coding Profile - <a href="https://leetcode.com/amanmehrat956/" target="_blank">LeetCode</a> 
 
 Skills</br>
 ◦ Structures</br>
